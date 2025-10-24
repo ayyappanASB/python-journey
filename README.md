@@ -1,6 +1,6 @@
 # Python journey by Ayyappan
 
-Hi there! I'm Ayyappan - an aspiring AI & Robotics engineer pursuing Btech at psb academy, Singapore. This repository tracks my **daily python coding journey**,as I prepare for internships and future roles.
+Hi there! I'm Ayyappan - an aspiring AI & Robotics engineer pursuing Bachelor of engineering honours at psb academy, Singapore. This repository tracks my **daily python coding journey**,as I prepare for internships and future roles.
 -----
 #GOALS
 - Build consistency through daily phython coding
